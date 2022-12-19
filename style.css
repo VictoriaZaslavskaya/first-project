@@ -1,0 +1,14 @@
+#logo{ 
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 30px;
+    left: 500px;
+}
+#logo2{
+    position: absolute;
+    width: 143px;
+    height: 42px;
+    left: 580px;
+    top: 42px;
+}
